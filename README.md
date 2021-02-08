@@ -5,7 +5,7 @@ I am a Full-stack Web Developer from Dhaka, Bangladesh. I work with JavaScript, 
 You can see what I am currently up to on [ZakirHossen.com](https://zakirhossen.com).
 
 ## 🎮 Check out some stuff about me
-- 🔭 I’m currently working on @echotemplate and @codeshikhi .
+- 🔭 I’m currently working on [@echotemplate](https://github.com/echotemplate) and [@codeshikhi](https://github.com/codeshikhi).
 - 🌱 I’m currently learning Tailwind CSS and Docker
 - 👯 I’m creating videos for my [Youtube Channel](https://youtube.com/zakirhossen)
 - 💬 Ask me about my online courses
@@ -14,7 +14,6 @@ You can see what I am currently up to on [ZakirHossen.com](https://zakirhossen.c
 
 ## 📬 Get in touch
 - Personal Portfolio: [ZakirHossen.com](https://zakirhossen.com)
-- LinkedIn: [Linkedin Profile](https://linkedin.com/in/devzakir)
 - Facebook: [Facebook Profile](https://facebook.com/devzakir)
-- Blog: [ZakirCT](https://zakirct.blogspot.com)
-- I also publish youtube videos here: [Youtube Channel](https://www.youtube.com/channel/UCtmtIr6waLhrgNmFYHjznvw)
+- Youtube Channel: [Youtube Channel](https://www.youtube.com/channel/UCtmtIr6waLhrgNmFYHjznvw)
+- I also publish blog posts here: [Meshdroid](https://meshdroid.blogspot.com)
