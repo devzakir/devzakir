@@ -1,11 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I am a Full-stack Web Developer from Dhaka, Bangladesh.
 
-I am a Full-stack Web Developer from Dhaka, Bangladesh. I work with JavaScript, Vue.js, Nuxt.js, Laravel & REST API.
-
-You can see what I am currently up to on [ZakirHossen.com](https://zakirhossen.com).
+> I work with JavaScript, Vue.js, Nuxt.js, Laravel, REST API, MySQL & Git. You can see what I am currently up to on [ZakirHossen.com](https://zakirhossen.com).
 
 ## 🎮 Check out some stuff about me
-- 🔭 I’m currently working on [@echotemplate](https://github.com/echotemplate) and [@codeshikhi](https://github.com/codeshikhi).
+- 🔭 I’m currently working on [@zakirsoft](https://github.com/zakirsoft) and [@echotemplate](https://github.com/echotemplate).
 - 🌱 I’m currently learning Tailwind CSS and Docker
 - 👯 I’m creating videos for my [Youtube Channel](https://youtube.com/zakirhossen)
 - 💬 Ask me about my online courses
