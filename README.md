@@ -2,6 +2,8 @@
 
 > I am a Full-stack Web Developer from Dhaka, Bangladesh. I work with JavaScript, Vue.js, Nuxt.js, Laravel, REST API, MySQL & Git. You can see what I am currently up to on [ZakirHossen.com](https://zakirhossen.com).
 
+![](https://komarev.com/ghpvc/?username=devzakir&color=brightgreen&style=flat-square)
+
 ## 🎮 Check out some stuff about me
 - 🔭 I’m currently working on [@zakirsoft](https://github.com/zakirsoft) and [@echotemplate](https://github.com/echotemplate).
 - 🌱 I’m currently learning Tailwind CSS and Docker
