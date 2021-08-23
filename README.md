@@ -17,3 +17,15 @@
 - Facebook: [Facebook Profile](https://facebook.com/devzakir)
 - Youtube Channel: [Youtube Channel](https://www.youtube.com/channel/UCtmtIr6waLhrgNmFYHjznvw)
 - I also publish blog posts here: [Meshdroid](https://meshdroid.blogspot.com)
+
+---
+<details> 
+  <summary> ✌️ GitHub Analytics </summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=devzakir&show_icons=true&locale=en&theme=vue-dark&include_all_commits=true" alt="devzakir" alt="Github Stats" title="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzakir&langs_count=10&layout=compact&theme=vue-dark" alt="Most used languages" title="Most used languages" /> 
+  <br/>
+  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+  
+  ### ⚡ Zakir's Activity Graph
+   <a href="https://github.com/devzakir"><img alt="Zakir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devzakir&custom_title=Zakir%20Hossen's%20Contribution%20Graph&theme=github" /></a>
+</details>
