@@ -1,22 +1,21 @@
 ## Hi there 👋  I am Zakir! Nice to meet you!
 
-> I am a Full-stack Web Developer from Dhaka, Bangladesh. I work with JavaScript, Vue.js, Nuxt.js, Laravel, REST API, MySQL & Git. You can see what I am currently up to on [ZakirHossen.com](https://zakirhossen.com).
+> I am a Full-stack Web Developer. I love workign with Laravel & Vuejs, apart from this I work with JavaScript, Vue.js, Nuxt.js, Laravel, REST API, MySQL Git & Github. You can see what I am currently up to on [ZakirHossen.com](https://zakirhossen.com).
 
 ![](https://komarev.com/ghpvc/?username=devzakir&color=brightgreen&style=flat-square)
 
 ## 🎮 Check out some stuff about me
-- 🔭 I’m currently working on [@zakirsoft](https://github.com/zakirsoft) and [@echotemplate](https://github.com/echotemplate).
-- 🌱 I’m currently learning Tailwind CSS and Docker
-- 👯 I’m creating videos for my [Youtube Channel](https://youtube.com/zakirhossen)
-- 💬 Ask me about my online courses
-- 📫 How to reach me: [Facebook](https://facebook.com/devzakir)
-- ⚡ Fun fact: My perfect day would start with excersize and end with tomorrow planning.
+- 🔭 I’m currently working on [@templatecookie](https://github.com/template) and [@echotemplate](https://github.com/echotemplate).
+- 🌱 I’m currently learning about SAAS & Marketing
+- 👯 I share my journey through youtube videso [Youtube Channel](https://youtube.com/zakirhossen)
+- ⚡ Fun fact: My perfect day would start with excersize and end with positive affirmation.
 
 ## 📬 Get in touch
 - Personal Portfolio: [ZakirHossen.com](https://zakirhossen.com)
+- Linkedin Profile: [Linkedin](https://www.linkedin.com/in/devzakir)
 - Facebook: [Facebook Profile](https://facebook.com/devzakir)
 - Youtube Channel: [Youtube Channel](https://www.youtube.com/channel/UCtmtIr6waLhrgNmFYHjznvw)
-- I also publish blog posts here: [Meshdroid](https://meshdroid.blogspot.com)
+- My Notes are here: [Personal Notes](https://zakirhossen.com/blog)
 
 ---
 <details> 
