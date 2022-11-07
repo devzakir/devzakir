@@ -1,21 +1,16 @@
 ## Hi there 👋  I am Zakir! Nice to meet you!
 
-> I am a Full-stack Web Developer. I love workign with Laravel & Vuejs, apart from this I work with JavaScript, Vue.js, Nuxt.js, Laravel, REST API, MySQL Git & Github. You can see what I am currently up to on [ZakirHossen.com](https://zakirhossen.com).
+> I am a Full-stack Web Developer, Entrepreneur & Trainer at [Codeshikhi.io](https://youtube.com/@codeshikhi). You can see what I am currently up to on [ZakirHossen.com](https://zakirhossen.com).
 
 ![](https://komarev.com/ghpvc/?username=devzakir&color=brightgreen&style=flat-square)
 
-## 🎮 Check out some stuff about me
-- 🔭 I’m currently working on [@templatecookie](https://github.com/template) and [@echotemplate](https://github.com/echotemplate).
-- 🌱 I’m currently learning about SAAS & Marketing
-- 👯 I share my journey through youtube videso [Youtube Channel](https://youtube.com/zakirhossen)
-- ⚡ Fun fact: My perfect day would start with excersize and end with positive affirmation.
-
-## 📬 Get in touch
-- Personal Portfolio: [ZakirHossen.com](https://zakirhossen.com)
-- Linkedin Profile: [Linkedin](https://www.linkedin.com/in/devzakir)
-- Facebook: [Facebook Profile](https://facebook.com/devzakir)
-- Youtube Channel: [Youtube Channel](https://www.youtube.com/channel/UCtmtIr6waLhrgNmFYHjznvw)
-- My Notes are here: [Personal Notes](https://zakirhossen.com/blog)
+| 🎮 Check out some stuff about me      | 📬 Get in touch |
+| ----------- | ----------- |
+| 🔭 I’m currently working on [@templatecookie](https://templatecookie.com), [@echotemplate](https://echotemplate.com/) & .      | Learn more about me: [ZakirHossen.com](https://zakirhossen.com)       |
+| 🌱 I’m currently learning about SAAS & Marketing   | Check out my Linkedin Profile: [Linkedin](https://www.linkedin.com/in/devzakir)        |
+| 👯 I share my journey through youtube videso [Youtube Channel](https://youtube.com/zakirhossen)      | Follow me on Facebook: [Facebook Profile](https://facebook.com/devzakir)       |
+| ⚡ Fun fact: My perfect day would start with excersize and end with positive affirmation.   | Watch my entrepreneur journey : [Zakir Hossen](https://www.youtube.com/@devzakir)        |
+| --      | Learn Coding for Free : [Codeshikhi](https://www.youtube.com/@codeshikhi)       |
 
 ---
 <details> 
